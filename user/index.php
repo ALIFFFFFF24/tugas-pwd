@@ -69,7 +69,7 @@ session_start();
     </table>
     <br>
     <br>
-    <button><a href="../login.php">Log Out</a></button>
+    <button><a href="../logout.php">Log Out</a></button>
 </body>
 
 </html>
